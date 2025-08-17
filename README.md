@@ -16,5 +16,8 @@ The main focus is to create a responsive appearance that closely resembles the o
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="32" style="vertical-align:middle;"/> HTML5  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="32" style="vertical-align:middle;"/> CSS3  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32" style="vertical-align:middle;"/> Figma
+
+## 🔗 Deployment
+[`Live Demo`](https://naufal420.github.io/Landing-Page-Design-Nexcent/)
 ## 🙏 Credits 
 🎨 Original design by [Muntasir Billah on Figma](https://www.figma.com/community/file/1222060007934600841/responsive-landing-page-design-website-home-page-design-agency-website-ui-design)
